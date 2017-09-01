@@ -1,0 +1,11 @@
+server:
+  port: 8811
+spring:
+  main:
+    web-environment: false
+
+searcher:
+  search-term: STaRt\W*\w\W*PROJECT
+  url: https://s3.amazonaws.com/fieldlens-public/urls.txt
+  result-file: results.txt
+  connection-limit: 20

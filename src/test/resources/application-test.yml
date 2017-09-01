@@ -1,0 +1,9 @@
+searcher.search-term: STaRt\\W*\\w\\W*PROJECT
+searcher.site-filter: kickstarter
+searcher.result-file: results-test.txt
+searcher.connection-limit: 2
+
+#searcher.search-term: anSwers\\W*GroUps
+#searcher.site-filter: yahoo.com
+#searcher.result-file: results-test.txt
+#searcher.connection-limit: 2
